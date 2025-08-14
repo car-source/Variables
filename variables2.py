@@ -27,6 +27,7 @@ print("Dream Job: " + dream_job)
 # TODO: print out the hobby variable using concatenation in the print function.  Output should be:  Hobby: (Developing and Programming)
 
 # Print using f-String
+
 print(f"{name} is {age} years old and wants to be a {dream_job}")
 print(f"They love to eat {favorite_food} and enjoys {hobby}")
 
