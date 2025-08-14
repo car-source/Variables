@@ -10,6 +10,7 @@ dream_job = "Software Developer"
 # TODO: repeat for the following variables:  dream_job, hobby
 
 # Print using commas
+
 print("Name:", name)
 print("Age:", age)
 print("Favorite Food:", favorite_food)
